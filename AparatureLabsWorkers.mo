@@ -4,7 +4,7 @@ import Hash "mo:base/Hash";
 import Iter "mo:base/Iter";
 
 actor AparatureLabs {
-  
+                                                 /*    https://play.motoko.org/?tag=147190593    */
   // Zaczynamy indeksowanie obiektów od 1000
   stable var index : Nat = 1000;
   //
